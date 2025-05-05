@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealprojects\\charactermovecpp\\source\\charactermovecpp\\interactinterface.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealprojects\\charactermovecpp\\intermediate\\build\\win64\\x64\\charactermovecppeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealprojects\\charactermovecpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\charactermovecpp\\definitions.charactermovecpp.h",
+            "d:\\unrealprojects\\charactermovecpp\\source\\charactermovecpp\\interactinterface.h",
+            "d:\\unrealprojects\\charactermovecpp\\intermediate\\build\\win64\\unrealeditor\\inc\\charactermovecpp\\uht\\interactinterface.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

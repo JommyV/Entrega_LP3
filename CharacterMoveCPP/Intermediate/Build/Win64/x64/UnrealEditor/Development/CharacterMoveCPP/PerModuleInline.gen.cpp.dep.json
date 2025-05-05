@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealprojects\\charactermovecpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\charactermovecpp\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealprojects\\charactermovecpp\\intermediate\\build\\win64\\x64\\charactermovecppeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealprojects\\charactermovecpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\charactermovecpp\\definitions.charactermovecpp.h",
+            "d:\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,4 @@
+Breadcrumbs 'Parallel'
+ - CubeMapCapture
+ - FRDGBuilder::Execute
+ - Frame 28880

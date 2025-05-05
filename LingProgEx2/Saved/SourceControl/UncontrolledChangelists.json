@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealProjects/LingProgEx2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UnrealProjects/LingProgEx2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/9N/2G39MQ055N7T9ULTTUXLEO.uasset",
+				"D:/UnrealProjects/LingProgEx2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/0O/VEXV6FVE0MKPO2NV4BSYMZ.uasset",
+				"D:/UnrealProjects/LingProgEx2/Content/MYGAME/PlayerController_BP.uasset",
+				"D:/UnrealProjects/LingProgEx2/Content/MYGAME/MyGameMode.uasset",
+				"D:/UnrealProjects/LingProgEx2/Content/MYGAME/MyCharacter_BP.uasset",
+				"D:/UnrealProjects/LingProgEx2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/K2/Y62TK12X4L0355JE2TM88C.uasset",
+				"D:/UnrealProjects/LingProgEx2/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/UnrealProjects/LingProgEx2/Content/MYGAME/AI/NavLink_Player.uasset",
+				"D:/UnrealProjects/LingProgEx2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/SY/48PQV0GYO6RI8WW9DKZNQ2.uasset",
+				"D:/UnrealProjects/LingProgEx2/Content/MYGAME/MyAIController_BP.uasset",
+				"D:/UnrealProjects/LingProgEx2/Content/MYGAME/MovingBox.uasset",
+				"D:/UnrealProjects/LingProgEx2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/6P/GG2GZ47I5HKC44WRNICEDH.uasset",
+				"D:/UnrealProjects/LingProgEx2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SM/VCVPE23BVWFZPZAZ68AWPE.uasset",
+				"D:/UnrealProjects/LingProgEx2/Content/MYGAME/AI/AIInterface.uasset",
+				"D:/UnrealProjects/LingProgEx2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/L0/OJ2ELJYMRDSMPFL0B7UJWT.uasset",
+				"D:/UnrealProjects/LingProgEx2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DK/OCGTQ834CWSYLL2VGL50L4.uasset",
+				"D:/UnrealProjects/LingProgEx2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"D:/UnrealProjects/LingProgEx2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3D/OHBCKRJT2K5XOCYABD5EBI.uasset",
+				"D:/UnrealProjects/LingProgEx2/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/UnrealProjects/LingProgEx2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/QK/TQCTZ9CH29UJSWT6IYZC8R.uasset"
+			]
+		}
+	]
+}

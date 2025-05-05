@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CharacterMoveCPP",
+			"Path": "..\\Source\\CharacterMoveCPP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CharacterMoveCPPEditor",
+			"Path": "..\\Source\\CharacterMoveCPPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealprojects\\charactermovecpp\\intermediate\\build\\win64\\unrealeditor\\inc\\charactermovecpp\\uht\\door.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealprojects\\charactermovecpp\\intermediate\\build\\win64\\x64\\charactermovecppeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealprojects\\charactermovecpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\charactermovecpp\\definitions.charactermovecpp.h",
+            "d:\\unrealprojects\\charactermovecpp\\source\\charactermovecpp\\door.h",
+            "d:\\unrealprojects\\charactermovecpp\\source\\charactermovecpp\\interactinterface.h",
+            "d:\\unrealprojects\\charactermovecpp\\intermediate\\build\\win64\\unrealeditor\\inc\\charactermovecpp\\uht\\interactinterface.generated.h",
+            "d:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "d:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "d:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\timelinecomponent.h",
+            "d:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\timelinecomponent.generated.h",
+            "d:\\unrealprojects\\charactermovecpp\\intermediate\\build\\win64\\unrealeditor\\inc\\charactermovecpp\\uht\\door.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

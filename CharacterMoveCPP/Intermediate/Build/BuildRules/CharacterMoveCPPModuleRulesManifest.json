@@ -1,0 +1,16 @@
+{
+	"SourceFiles": [
+		"D:\\UnrealProjects\\CharacterMoveCPP\\Source\\CharacterMoveCPP\\CharacterMoveCPP.Build.cs",
+		"D:\\UnrealProjects\\CharacterMoveCPP\\Plugins\\Developer\\RiderLink\\Source\\RD\\RD.Build.cs",
+		"D:\\UnrealProjects\\CharacterMoveCPP\\Plugins\\Developer\\RiderLink\\Source\\RiderBlueprint\\RiderBlueprint.Build.cs",
+		"D:\\UnrealProjects\\CharacterMoveCPP\\Plugins\\Developer\\RiderLink\\Source\\RiderDebuggerSupport\\RiderDebuggerSupport.Build.cs",
+		"D:\\UnrealProjects\\CharacterMoveCPP\\Plugins\\Developer\\RiderLink\\Source\\RiderGameControl\\RiderGameControl.Build.cs",
+		"D:\\UnrealProjects\\CharacterMoveCPP\\Plugins\\Developer\\RiderLink\\Source\\RiderLC\\RiderLC.Build.cs",
+		"D:\\UnrealProjects\\CharacterMoveCPP\\Plugins\\Developer\\RiderLink\\Source\\RiderLink\\RiderLink.Build.cs",
+		"D:\\UnrealProjects\\CharacterMoveCPP\\Plugins\\Developer\\RiderLink\\Source\\RiderLogging\\RiderLogging.Build.cs",
+		"D:\\UnrealProjects\\CharacterMoveCPP\\Plugins\\Developer\\RiderLink\\Source\\RiderShaderInfo\\RiderShaderInfo.Build.cs",
+		"D:\\UnrealProjects\\CharacterMoveCPP\\Source\\CharacterMoveCPP.Target.cs",
+		"D:\\UnrealProjects\\CharacterMoveCPP\\Source\\CharacterMoveCPPEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
